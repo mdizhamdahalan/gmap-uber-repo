@@ -1,0 +1,7 @@
+#Sun Feb 19 22:38:52 GMT 2017
+base.0=D\:\\Mickael\\Big Projects Android\\3 Uber Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b5e0bb721a4f9abff0ed6f1246ec693def5bd39b
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=D\:\\Mickael\\Big Projects Android\\3 Uber Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_058c5329bf92dd2ca444ed9f2dc350bac8587f20\\classes.dex
+base.1=D\:\\Mickael\\Big Projects Android\\3 Uber Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_058c5329bf92dd2ca444ed9f2dc350bac8587f20
+file.0=D\:\\Mickael\\Big Projects Android\\3 Uber Project\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_b5e0bb721a4f9abff0ed6f1246ec693def5bd39b\\classes.dex
